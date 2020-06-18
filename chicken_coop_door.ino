@@ -80,43 +80,43 @@ void loop()
       break;
       
     case 4: //April
-      t_open=8; //08:00
+      t_open=9; //08:00
       t_close=20; //20:00
       door_function();
       break;
       
     case 5: //May
-      t_open=7; //07:00
+      t_open=9; //07:00
       t_close=21; //21:00
       door_function();
       break;
       
     case 6: //June
-      t_open=7; //07:00
+      t_open=9; //07:00
       t_close=21; //21:00
       door_function();
       break;
       
     case 7: //July
-      t_open=7; //07:00
+      t_open=9; //07:00
       t_close=21; //21:00
       door_function();
       break;
       
     case 8: //August <-------------------------
-      t_open=7; //07:00
+      t_open=9; //07:00
       t_close=21; //21:00
       door_function();
       break;
       
     case 9: //September
-      t_open=8; //08:00
+      t_open=9; //08:00
       t_close=20; //20:00
       door_function();
       break;
       
     case 10: //October
-      t_open=8; //08:00
+      t_open=9; //08:00
       t_close=19; //19:00
       door_function();
       break;
